@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+#logo {
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(68, 66, 66);
+}
